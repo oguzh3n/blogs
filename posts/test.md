@@ -1,9 +1,3 @@
-# Gundi
----
-## Gundi
----
-### Gundi
----
 hello **world**
 ---
 hello *world*
